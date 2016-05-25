@@ -1,0 +1,51 @@
+body {
+  background-color: black;
+}
+
+.gandalf {
+  background-color: black;
+  color: white;
+}
+
+.gandalf img {
+  margin: 10px;
+  margin-bottom: 20px;
+}
+
+.genpep {
+  background-color: black;
+  color: white;
+}
+
+.genpep img {
+  margin: 10px;
+  margin-bottom: 20px;
+}
+
+.juno {
+  background-color: black;
+  color: white;
+}
+
+.juno img {
+  margin: 10px;
+  margin-bottom: 20px;
+}
+
+.jumbotron {
+  margin: 0px;
+  color: white;
+  text-shadow: 2px 2px black;
+  background-image: url("/views/images/smokystars.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 1500px 500px;
+}
+
+.nav {
+  background-color: #000639;
+}
+
+.container-fluid {
+  background-color: white;
+}
